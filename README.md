@@ -1,2 +1,2 @@
-# Permutation-combination-calc
-A permutation and combination calculator written in python. I'm bored.
+Follow the prompts to use.
+Is python executable so yeah do that.

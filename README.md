@@ -1,2 +1,3 @@
+# Permutation, Combination, Factorial calculaor.
 Follow the prompts to use.
-Is python executable so yeah do that.
+Is a python executable so yeah do that.
